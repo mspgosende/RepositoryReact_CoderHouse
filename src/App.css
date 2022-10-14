@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  max-width: 400px;
 }
 
 .App-logo {
@@ -35,15 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-section {
-  color: #fff;
-  text-shadow: #000000;
-  background-color: pink;
-  height: 100vh;
-}
-
-.navBg {
-  background-color: purple ;
 }
